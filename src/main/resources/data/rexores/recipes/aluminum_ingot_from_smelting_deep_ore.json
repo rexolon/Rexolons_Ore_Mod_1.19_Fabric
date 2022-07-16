@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1,
+  "group": "aluminum_ingot",
+  "ingredient": {
+    "item": "rexores:deepslate_aluminum_ore"
+  },
+  "result": "rexores:aluminum_ingot"
+}
