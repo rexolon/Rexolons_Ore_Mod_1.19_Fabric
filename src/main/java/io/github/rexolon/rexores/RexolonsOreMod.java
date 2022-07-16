@@ -1,5 +1,6 @@
 package io.github.rexolon.rexores;
 
+import io.github.rexolon.rexores.block.ModBlocks;
 import io.github.rexolon.rexores.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -14,6 +15,7 @@ public class RexolonsOreMod implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
