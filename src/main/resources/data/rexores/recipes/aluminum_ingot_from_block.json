@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "rexores:aluminum_ingot"
+      "item": "rexores:aluminum_block"
     }
   ],
   "result": {
-    "item": "rexores:aluminum_block",
+    "item": "rexores:aluminum_ingot",
     "count": 9
   }
 }
